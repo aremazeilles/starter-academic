@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Anthony Remazeilles
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,34 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Senior researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Tecnalia
+  url: "https://www.tecnalia.com/"
+- name: Health Division, Medical Robotic
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Interested in any application involving Human Robot interaction, software architecture or ROS.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Visual servoing
+- Computer vision
+- Surgical Robotics
+- Software architecture
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Computer Science
+    institution: Université de Rennes I
+    year: 2004
+  - course: Master of Research in Image and Artificial Intelligence
+    institution: Université de Rennes I
+    year: 2001
+  - course: Engineer Degree in Computer Science
+    institution: INSA of Rennes
+    year: 2001
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,15 +47,27 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.fr/citations?user=IQyKcYgAAAAJ&hl=fr&authuser=1
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/aremazeilles
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/anthony-remazeilles-54672114/
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Anthony_Remazeilles
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0001-5257-2228
+- icon: publons
+  icon_pack: ai
+  link: https://publons.com/researcher/1997495/anthony-remazeilles/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -73,6 +87,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a researcher and project manager at [Tecnalia](http://www.tecnalia.com), Donostia, in the Spanish basque country.
+I work in the Medical Robotics group, from the Health Division, as well as in the Advanced Manufacturing group of the Industry and Transport Division.
+I am involved in the development of technological solutions for physical Human Robot interaction, vision-based robotic manipulation, ... I am also very interested in  software architecture, within (or without) the ROS framework.
