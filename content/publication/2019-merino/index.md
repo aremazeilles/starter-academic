@@ -9,5 +9,4 @@ featured: false
 publication: "*International Conference on Natural Language Processing*"
 tags: ["computer vision"]
 url_pdf: https://arxiv.org/abs/2006.02933
-projects: [""]
 ---

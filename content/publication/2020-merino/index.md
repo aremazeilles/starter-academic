@@ -8,5 +8,5 @@ abstract: "This article deals with the 2D image-based recognition of industrial 
 featured: false
 publication: "*Applied Science*"
 tags: ["computer vision"]
-projects: [""]
+url_pdf: https://www.mdpi.com/2076-3417/10/11/3701
 ---
