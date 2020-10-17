@@ -110,7 +110,7 @@ Several press releases commented about that activity:
 |------:|---------|
 | **2008** | |
 | 20 Feb | report in "Interception", on France Inter: _Ces robots qui nous veulent du bien..._ |
-|20 Feb	| report in Ouest France Web: {{% staticref "files/2008-02-20-ouestfrance.pdf" "newtab" %}}Bientôt des robots pour soulager le handicap?{{% |
+|20 Feb	| report in Ouest France Web: {{% staticref "files/2008-02-20-ouestfrance.pdf" "newtab" %}}Bientôt des robots pour soulager le handicap?{{%  /staticref %}}|
 |18 Feb	| report in "La Tête au carré", on France Inter Ecouter ou lire |
 | Feb |	report in La Recherche, n.416 _un bras robotisé aide les handicapés_ lien vers le sommaire |
 |24 Jan | areport in Ouest France _Bientot des robots pour soulager le handicap?_ |
