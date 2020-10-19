@@ -106,6 +106,8 @@ The mobile platform, and its navigation software, is a product of [Neobotix](htt
 
 Several press releases commented about that activity:
 
+<div class="table-define" data-sizes="15rem,auto"></div>
+
 | `Date`| `Details` |
 |------:|---------|
 | **2008** | |
