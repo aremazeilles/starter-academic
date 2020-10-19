@@ -120,7 +120,7 @@ Several press releases commented about that activity:
 | Dec.	| Technical evaluation, centre médical de Brest |
 |11 Dec.| report in _Quotidien du médecin_: {{% staticref "files/cea/2007-12-11-QuotidienMedecin.pdf" "newtab" %}}SAM, le robot qui rapporte{{%  /staticref %}} |
 |3-7 Dec. |	Clinical evaluation of the Aviso project, Reims|
-|1 Dec. | report in newspaper La Montagne: {{% staticref "files/cea/2007-12-01-Montagne" "newtab" %}}Des robots pour faciliter la vie des personnes handicapées_{{%  /staticref %}} |
+|1 Dec. | report in newspaper La Montagne: {{% staticref "files/cea/2007-12-01-Montagne.pdf" "newtab" %}}Des robots pour faciliter la vie des personnes handicapées{{%  /staticref %}} |
 |30 Nov.| Dépêche AFP on SAM {{% staticref "files/cea/2007-11-30-AFP.pdf" "newtab" %}}France: des robots pour faciliter la vie des personnes handicapées{{%  /staticref %}}  |
 |29 Nov	| Demo at _la journée de la Recherche sur le Handicap_, CEA de Saclay ({{% staticref "files/cea/2007-11-29-recherche_handicap.pdf" "newtab" %}}see program{{%  /staticref %}}) |
 |19-23 Nov. | Clinical evaluation of the AVISO project, centre Hopale, Berck-sur-Mer |
