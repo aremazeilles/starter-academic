@@ -128,6 +128,6 @@ Several press releases commented about that activity:
 |5-9 Nov. | Clinical evaluation of the AVISO project, hôpital universitaire Raymond Poincaré de Garches (Automatic grasping of objects using panoramic camera) |
 |Nov. | Patent filling on the vision-based control system |
 |18-19 Oct. | Demo of the ANSO project at the 2007 symposium 2007 of the ITEA2 programme, Berlin. Silver exhibition award |
-|13 Sept. | Evaluation of the ITEA ANSO project, CEA de Fontenay aux Roses (go to the video) <p float="left"> <img src="2007-09-cea.jpg" width="230"/> <img src="2007-09-cea2.jpg" width="130"/> <img src="2007-09-cea3.jpg" width="230"/> </p>|
+|13 Sept. | Evaluation of the ITEA ANSO project, CEA de Fontenay aux Roses (go to the video) <p float="left"> <img src="2007-09-cea.jpg" width="200"/> <img src="2007-09-cea2.jpg" width="113"/> <img src="2007-09-cea3.jpg" width="200"/> </p>|
 
 _Work in collaboration with Christophe Leroux, Gerard Chalubert, Martine Guerrand, Aline Chansavang, Céline Teulière & Mathieu le Cam._
