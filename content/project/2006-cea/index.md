@@ -110,24 +110,24 @@ Several press releases commented about that activity:
 |------:|---------|
 | **2008** | |
 | 20 Feb | report in "Interception", on France Inter: _Ces robots qui nous veulent du bien..._ |
-|20 Feb	| report in Ouest France Web: {{% staticref "files/2008-02-20-ouestfrance.pdf" "newtab" %}}Bientôt des robots pour soulager le handicap?{{%  /staticref %}}|
-|18 Feb	| report in "La Tête au carré", on France Inter Ecouter ou lire |
+|20 Feb	| report in Ouest France Web: {{% staticref "files/cea/2008-02-20-ouestfrance.pdf" "newtab" %}}Bientôt des robots pour soulager le handicap?{{%  /staticref %}}|
+|18 Feb	| report in _La Tête au carré_, on France Inter (Ecouter or {{% staticref "files/cea/2008-02-18-France_Inter.pdf" "newtab" %}}read{{%  /staticref %}}) |
 | Feb |	report in La Recherche, n.416 _un bras robotisé aide les handicapés_ lien vers le sommaire |
-|24 Jan | areport in Ouest France _Bientot des robots pour soulager le handicap?_ |
-|24 Jan | report in le Télégramme: _A l'heure des robots_ |
+|24 Jan | report in Ouest France {{% staticref "files/cea/2008-01-25-ouestfrance.jpg" "newtab" %}}Bientot des robots pour soulager le handicap?{{%  /staticref %}} |
+|24 Jan | report in le Télégramme: {{% staticref "files/cea/2008-01-25-telegramme.jpg" "newtab" %}}A l'heure des robots{{%  /staticref %}} |
 |18 Jan | report on the medical robotics developed at the CEA (including SAM), au journal de 20h de TF1 |
 | **2007** ||
 | Dec.	| Technical evaluation, centre médical de Brest |
-|11 Dec.| report in Quotidien du médecin: _SAM, le robot qui rapporte_ |
+|11 Dec.| report in _Quotidien du médecin_: {{% staticref "files/cea/2007-12-11-QuotidienMedecin.pdf" "newtab" %}}SAM, le robot qui rapporte{{%  /staticref %}} |
 |3-7 Dec. |	Clinical evaluation of the Aviso project, Reims|
-|1 Dec. | report in newspaper La Montagne: _Des robots pour faciliter la vie des personnes handicapées_ |
-|30 Nov.| Dépêche AFP on SAM _France: des robots pour faciliter la vie des personnes handicapées_
-|29 Nov	| Demo at la journée de la Recherche sur le Handicap, CEA de Saclay (see programme) |
+|1 Dec. | report in newspaper La Montagne: {{% staticref "files/cea/2007-12-01-Montagne" "newtab" %}}Des robots pour faciliter la vie des personnes handicapées_{{%  /staticref %}} |
+|30 Nov.| Dépêche AFP on SAM {{% staticref "files/cea/2007-11-30-AFP.pdf" "newtab" %}}France: des robots pour faciliter la vie des personnes handicapées{{%  /staticref %}}  |
+|29 Nov	| Demo at _la journée de la Recherche sur le Handicap_, CEA de Saclay ({{% staticref "files/cea/2007-11-29-recherche_handicap.pdf" "newtab" %}}see program{{%  /staticref %}}) |
 |19-23 Nov. | Clinical evaluation of the AVISO project, centre Hopale, Berck-sur-Mer |
 |12-16 Nov. | Clinical evaluation of the AVISO project, centre de rééducation de Coubert|
 |5-9 Nov. | Clinical evaluation of the AVISO project, hôpital universitaire Raymond Poincaré de Garches (Automatic grasping of objects using panoramic camera) |
 |Nov. | Patent filling on the vision-based control system |
-|18-19 Oct. | Demo of the ANSO project at the 2007 symposium 2007 of the ITEA2 programme, Berlin. Silver exhibition award (voir le prix) |
+|18-19 Oct. | Demo of the ANSO project at the 2007 symposium 2007 of the ITEA2 programme, Berlin. Silver exhibition award |
 |13 Sept. | Evaluation of the ITEA ANSO project, CEA de Fontenay aux Roses (go to the video) |
 
 _Work in collaboration with Christophe Leroux, Gerard Chalubert, Martine Guerrand, Aline Chansavang, Céline Teulière & Mathieu le Cam._
