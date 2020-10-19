@@ -111,8 +111,8 @@ Several press releases commented about that activity:
 | **2008** | |
 | 20 Feb | report in "Interception", on France Inter: _Ces robots qui nous veulent du bien..._ |
 |20 Feb	| report in Ouest France Web: {{% staticref "files/cea/2008-02-20-ouestfrance.pdf" "newtab" %}}Bientôt des robots pour soulager le handicap?{{%  /staticref %}}|
-|18 Feb	| report in _La Tête au carré_, on France Inter ({{% staticref "files/cea/2008-02-18-France_Inter.pdf" "newtab" %}}read{{%  /staticref %}} {{< audio src="2008-02-18-SAM-la_tete_au_carre.ogg" >}}) |
-| Feb |	report in La Recherche, n.416 _un bras robotisé aide les handicapés_ lien vers le sommaire |
+|18 Feb	| report in _La Tête au carré_, on France Inter ({{% staticref "files/cea/2008-02-18-France_Inter.pdf" "newtab" %}}read{{%  /staticref %}}) {{< audio src="2008-02-18-SAM-la_tete_au_carre.ogg" >}} |
+| Feb |	report in La Recherche, n.416 _un bras robotisé aide les handicapés_ |
 |24 Jan | report in Ouest France {{% staticref "files/cea/2008-01-25-ouestfrance.jpg" "newtab" %}}Bientot des robots pour soulager le handicap?{{%  /staticref %}} |
 |24 Jan | report in le Télégramme: {{% staticref "files/cea/2008-01-25-telegramme.jpg" "newtab" %}}A l'heure des robots{{%  /staticref %}} |
 |18 Jan | report on the medical robotics developed at the CEA (including SAM), au journal de 20h de TF1 |
