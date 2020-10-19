@@ -131,3 +131,13 @@ Several press releases commented about that activity:
 |13 Sept. | Evaluation of the ITEA ANSO project, CEA de Fontenay aux Roses (go to the video) |
 
 _Work in collaboration with Christophe Leroux, Gerard Chalubert, Martine Guerrand, Aline Chansavang, Céline Teulière & Mathieu le Cam._
+
+{{< gallery >}}
+
+gallery_item:
+ - album: gallery_cea
+   image: 2007-09-cea.jpg
+   caption: A caption
+ - album: gallery_cea
+   image: 2007-09-cea.jpg
+   caption: Another caption
