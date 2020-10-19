@@ -115,9 +115,9 @@ Several press releases commented about that activity:
 | Feb |	report in La Recherche, n.416 _un bras robotisé aide les handicapés_ |
 |24 Jan | report in Ouest France {{% staticref "files/cea/2008-01-25-ouestfrance.jpg" "newtab" %}}Bientot des robots pour soulager le handicap?{{%  /staticref %}} |
 |24 Jan | report in le Télégramme: {{% staticref "files/cea/2008-01-25-telegramme.jpg" "newtab" %}}A l'heure des robots{{%  /staticref %}} |
-|18 Jan | report on the medical robotics developed at the CEA (including SAM), au journal de 20h de TF1 |
+|18 Jan | report on the medical robotics developed at the CEA (including SAM), au journal de 20h de TF1 <br> <img src="2008-01-18-tf1-long.jpg" height="180"/> |
 | **2007** ||
-| Dec.	| Technical evaluation, centre médical de Brest |
+| Dec.	| Technical evaluation, centre médical de Brest <br> <img src="2008-01-brest-long.jpg" height="180"/>|
 |11 Dec.| report in _Quotidien du médecin_: {{% staticref "files/cea/2007-12-11-QuotidienMedecin.pdf" "newtab" %}}SAM, le robot qui rapporte{{%  /staticref %}} |
 |3-7 Dec. |	Clinical evaluation of the Aviso project, Reims|
 |1 Dec. | report in newspaper La Montagne: {{% staticref "files/cea/2007-12-01-Montagne.pdf" "newtab" %}}Des robots pour faciliter la vie des personnes handicapées{{%  /staticref %}} |
@@ -127,7 +127,7 @@ Several press releases commented about that activity:
 |12-16 Nov. | Clinical evaluation of the AVISO project, centre de rééducation de Coubert|
 |5-9 Nov. | Clinical evaluation of the AVISO project, hôpital universitaire Raymond Poincaré de Garches (Automatic grasping of objects using panoramic camera) |
 |Nov. | Patent filling on the vision-based control system |
-|18-19 Oct. | Demo of the ANSO project at the 2007 symposium 2007 of the ITEA2 programme, Berlin. Silver exhibition award |
-|13 Sept. | Evaluation of the ITEA ANSO project, CEA de Fontenay aux Roses (go to the video) <br> <img src="2007-09-cea-long.jpg" height="180"/> 
+|18-19 Oct. | Demo of the ANSO project at the 2007 symposium 2007 of the ITEA2 programme, Berlin. Silver exhibition award <br> <img src="2007-10-berlin-long.jpg" height="180"/> |
+|13 Sept. | Evaluation of the ITEA ANSO project, CEA de Fontenay aux Roses (go to the video) <br> <img src="2007-09-cea-long.jpg" height="180"/> |
 
 _Work in collaboration with Christophe Leroux, Gerard Chalubert, Martine Guerrand, Aline Chansavang, Céline Teulière & Mathieu le Cam._
