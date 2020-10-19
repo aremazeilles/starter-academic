@@ -1,6 +1,10 @@
 # IDEs
 .idea/
+.vscode
 
 # Hugo
 /resources/
 public/
+
+# mac
+**/.DS_Store
