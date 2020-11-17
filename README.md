@@ -9,5 +9,5 @@ _to be described_
 ## Deployment
 
 At each commit, Netlify is used to generate the static website.
-The result is accesible at www.anthonyremazeilles.eu
+The result is accessible at www.anthonyremazeilles.eu
 
