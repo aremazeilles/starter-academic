@@ -86,7 +86,7 @@ This original application has the following skills:
 
 {{< youtube wm6cPrmXfxE >}}
 Realized during technical evaluations, in January 2008,  Morvan hospital, Brest, France.
-{{< vimeo 276530873 >}} 
+{{< vimeo 276530873 >}}
 Realized during the ITEA ANSO evaluation, September 2007 the 13, at the CEA of Fontenay aux Roses.
 
 This video presents the general behavior of the mobile robotic platform SAM developed by the <a target="_blank" href="http://www-list.cea.fr/index_gb.htm">CEA-LIST</a>, for improving the well-being of disabled people.
@@ -102,9 +102,9 @@ Any textured object can thus be considered without changing the program.
 The robotic arm is designed by [Exact Dynamics](http://www.exactdynamics.nl/).
 The mobile platform, and its navigation software, is a product of [Neobotix](https://www.neobotix-robots.com/).
 
-{{ < vimeo 480913980 > }}
-{{ < vimeo 480915634 > }}
-{{ < vimeo 480915981 > }}
+{{< vimeo 480913980 >}}
+{{< vimeo 480915634 >}}
+{{< vimeo 480915981 >}}
 
 These 3 videos illustrate the stereo tracking algorithm used for tracking the object to grasp.
 The tracker does not relay on an a priori model of the object, but learns it from the interest points
