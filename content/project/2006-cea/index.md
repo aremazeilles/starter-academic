@@ -57,19 +57,19 @@ The end-user defines onto a display an object to grasp (by simply defining a box
 
 Within this context, my work was to :
 
-* develop a stereo tracking algorithm. The main originality is that no object model is needed.
-* design a control module (based on visual servoing  principles) to command the arm.
+- develop a stereo tracking algorithm. The main originality is that no object model is needed.
+- design a control module (based on visual servoing  principles) to command the arm.
 
 The development of such elements enabled me to define several scientific libraries dealing with :
 
-* algebra
-* image grabbing
-* camera calibration
-* visual servoing
-* feature extraction (harris points) and tracking (differential correlation), template matching (exhaustive correlation)
-* pose estimation
+- algebra
+- image grabbing
+- camera calibration
+- visual servoing
+- feature extraction (Harris points) and tracking (differential correlation), template matching (exhaustive correlation)
+- pose estimation
 
-<p> Naturally, these libraries are now easily usable by the rest of the laboratory </p>
+These libraries are now easily usable by the rest of the laboratory.
 
 ### The autonomous mobile robotic platform SAM
 
@@ -86,7 +86,7 @@ This original application has the following skills:
 
 {{< youtube wm6cPrmXfxE >}}
 Realized during technical evaluations, in January 2008,  Morvan hospital, Brest, France.
-{{< vimeo 276530873 >}}
+{{< vimeo 276530873 >}} 
 Realized during the ITEA ANSO evaluation, September 2007 the 13, at the CEA of Fontenay aux Roses.
 
 This video presents the general behavior of the mobile robotic platform SAM developed by the <a target="_blank" href="http://www-list.cea.fr/index_gb.htm">CEA-LIST</a>, for improving the well-being of disabled people.
@@ -101,6 +101,15 @@ Any textured object can thus be considered without changing the program.
 
 The robotic arm is designed by [Exact Dynamics](http://www.exactdynamics.nl/).
 The mobile platform, and its navigation software, is a product of [Neobotix](https://www.neobotix-robots.com/).
+
+{{ < vimeo 480913980 > }}
+{{ < vimeo 480915634 > }}
+{{ < vimeo 480915981 > }}
+
+These 3 videos illustrate the stereo tracking algorithm used for tracking the object to grasp.
+The tracker does not relay on an a priori model of the object, but learns it from the interest points
+found within the box delimited by the operator on the screen.
+The object tracking is then obtained through _virtual visual servoing_ for stereoscopic systems.
 
 ### Related communication
 
@@ -132,4 +141,4 @@ Several press releases commented about that activity:
 |18-19 Oct. | Demo of the ANSO project at the 2007 symposium 2007 of the ITEA2 programme, Berlin. Silver exhibition award <br> <img src="2007-10-berlin-long.jpg" height="180"/> |
 |13 Sept. | Evaluation of the ITEA ANSO project, CEA de Fontenay aux Roses (go to the video) <br> <img src="2007-09-cea-long.jpg" height="180"/> |
 
-_Work in collaboration with Christophe Leroux, Gerard Chalubert, Martine Guerrand, Aline Chansavang, Céline Teulière & Mathieu le Cam._
+_Work in collaboration with Christophe Leroux, Gerard Chalubert, Martine Guerrand, Aline Chansavang, Céline Teulière & Mathieu le Cam.
