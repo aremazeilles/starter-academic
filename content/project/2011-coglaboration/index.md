@@ -40,9 +40,9 @@ url_video: ""
 slides: ""
 ---
 
-This activity was funded by the Spanish Plan Nacional Fluent, and the European Project 
+This activity was funded by the Spanish Plan Nacional Fluent, and the European Project
 [CogLaboration](http://www.coglaboration.eu/").
 In the context of human robot collaboration, we are developing some control laws dedicated to human robot object handovers.
 These control laws are strongly inspired by the Dynamic Movement Primitives that permit to reproduce a reference motion pattern while enabling to adjust online the targeted location.
- 
+
 Work in collaboration with Miguel Prada, Irati Rasines and Leire Martinez.
