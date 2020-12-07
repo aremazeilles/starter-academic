@@ -62,7 +62,13 @@ We have been contribution on analyzing how human demonstration of assembly proce
 
 In particular, we have studied how the `instantaneous work` could be used to segment manipulation demonstration, as illustrated on the following videos.
 
-_to be inserted_
+{{< vimeo 471895444 >}}
+Illustration of the segmentation of an insertion manipulation (involving sliding and folding).
+
+{{< vimeo 471896482 >}}
+Illustration of the segmentation of a folding manipulation.
+
+Details of the approach used is detailed in the ROBOT paper on the instantaneous work.
 
 This work has been disseminated through the publications mentioned below, and:
 
