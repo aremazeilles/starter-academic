@@ -40,4 +40,11 @@ url_video: ""
 slides: ""
 ---
 
-To be described
+The EUROBENCH project aims to create the first unified benchmarking framework for robotic systems in Europe.
+This framework will allow companies and/or researchers to test the performance of their robots at any stage of development.
+The project is mainly focused on bipedal machines, i.e. exoskeletons, prosthetics and humanoids, but aims to be also extended to other robotic technologies.
+
+More information:
+
+* [Project website](http://eurobench2020.eu/)
+* [Software documentation](https://eurobench.github.io/sofware_documentation/latest/index.html)
