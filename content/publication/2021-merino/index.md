@@ -8,4 +8,6 @@ abstract: "Deep learning methods have been successfully applied to image process
 featured: false
 publication: "*Sensors, 2021*"
 tags: ["computer vision", "deep learning", "object recognition", "transfer learning"]
+doi: "0.3390/s21041078"
+url_pdf: "https://www.mdpi.com/1424-8220/21/4/1078/pdf"
 ---
