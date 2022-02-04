@@ -8,4 +8,7 @@ abstract: "This study aims to evaluate different combinations of features and al
 featured: false
 publication: "*Applied Science, 2021*"
 tags: ["classification", "force level variation", "myoelectric control", "pattern recognition", "robustness", "surface electromyogram (sEMG)", "transradial amputees"]
+doi: "10.3390/app112311199"
+url_pdf: "https://www.mdpi.com/2076-3417/11/23/11199/pdf"
+projects: ["2018-robotunion"]
 ---
