@@ -107,7 +107,7 @@ The mobile platform, and its navigation software, is a product of [Neobotix](htt
 {{< vimeo 480915981 >}}
 
 These 3 videos illustrate the stereo tracking algorithm used for tracking the object to grasp.
-The tracker does not relay on an a priori model of the object, but learns it from the interest points
+The tracker does not rely on an a priori model of the object, but learns it from the interest points
 found within the box delimited by the operator on the screen.
 The object tracking is then obtained through _virtual visual servoing_ for stereoscopic systems.
 
