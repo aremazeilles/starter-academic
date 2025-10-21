@@ -40,10 +40,13 @@ url_video: ""
 slides: ""
 ---
 
-To be described
+The use of robotics in production of sterile medical products could make it cheaper and faster. However, as strict traceability is demanded in the medical field, that route requires the possibility of verifications at each step, of every sample test and in any task completion, posing challenges for engineering.
+To overcome this difficulty, the EU-funded TraceBot project introduces verifiable actions of robot operation, enabling its reasoning over sensor-actor trails in a traceability framework using digital twin technology.
+This will be possible with the creation of automatic execution of self-checking procedures and a semantic trace of the performed actions integrated into production processes.
+A new robot system will ensure sterility, safety, automation and low-cost production.
 
 More information:
 
 * [Project website](https://www.tracebot.eu/)
 * [Cordis website](https://cordis.europa.eu/project/id/101017089)
-
+* [YouTube pLaylist](https://youtube.com/playlist?list=PLWmZxrszLjCRWmQA15pw4MwRLQaTDZOhv&si=wUZn9BrYSAvmdyqq) of the TraceBot workshops recorded on the 29.05.2025.
