@@ -10,4 +10,3 @@ _to be described_
 
 At each commit, Netlify is used to generate the static website.
 The result is accessible at www.anthonyremazeilles.eu
-

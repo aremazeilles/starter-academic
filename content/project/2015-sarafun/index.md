@@ -40,7 +40,7 @@ url_video: ""
 slides: ""
 ---
 
-## SARAFUn project
+## SARAFun project
 
 This activity was funded by the European project [Sarafun](http://sarafun.eu/).
 
@@ -75,6 +75,5 @@ This work has been disseminated through the publications mentioned below, and:
 * through contributions to workshop at the European Robotic Forum, in [2017](http://sarafun.eu/%20erf-2017-tbd-for-industrial-applications%20/) and [2018](http://cs.lth.se/jacek-malec/smart-cooperative-robots-for-agile-assembly-workshop-erf2018/).
 * the organization of a workshop at [IROS 2017](http://sarafun.eu/iros2017_hr/), _Human in-the-loop robotic manipulation: on the influence of the human role_, in collaboration with Yiannis Karayannidis, Yasemin Bekiroglu and Justus Piater.
 * an invited talk at [IROS 2018](https://www.roboticvision.org/humanrobotcooperationirosws/), in the workshop entitled _Human-robot cooperation and collaboration in manipulation: advancements and challenges_: _Observing human assembly: lessons learned_.
-
 
 Work in collaboration with Asier Fernandez, Irati Rasines, Joe McIntyre, Julius Klein and Miguel Prada.

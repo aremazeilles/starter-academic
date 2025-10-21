@@ -40,6 +40,6 @@ url_video: ""
 slides: ""
 ---
 
-To be described...
+The EU-funded RobotUnion project aims to establish a unique and innovative acceleration programme to bring together research centres, business schools, large corporations and investors to support robotics companies operating in non-traditional markets such as healthcare, agrifood, civil engineering and manufacturing. The project's priority is to provide assistance to the 20 most promising European robotics companies that have introduced disruptive innovations to the robotics market. The goal is to reduce the costs associated with developing specific technologies for market entry.
 
-* [Project website](https://robotunion.eu/)
+* [Cordis information](https://cordis.europa.eu/project/id/779967)
