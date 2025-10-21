@@ -49,4 +49,4 @@ More information:
 
 * [Project website](https://www.tracebot.eu/)
 * [Cordis website](https://cordis.europa.eu/project/id/101017089)
-* [YouTube pLaylist](https://youtube.com/playlist?list=PLWmZxrszLjCRWmQA15pw4MwRLQaTDZOhv&si=wUZn9BrYSAvmdyqq) of the TraceBot workshops recorded on the 29.05.2025.
+* [YouTube playlist](https://youtube.com/playlist?list=PLWmZxrszLjCRWmQA15pw4MwRLQaTDZOhv&si=wUZn9BrYSAvmdyqq) of the TraceBot workshop recorded on the 29.05.2025.
